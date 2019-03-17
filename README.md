@@ -1,6 +1,6 @@
-<center><img src="/pack.png" alt="ESUCRAFT resourcepack LOGO" /></center>
-
 # esucraft-resourcepack
+
+![ESUCRAFT resourcepack LOGO](/pack.png)
 
 恶俗的Minecraft资源包
 
@@ -18,7 +18,7 @@
 
 1. 安装 [git-lfs](https://git-lfs.github.com/)
 1. clone 本项目至 Minecraft 客户端的 ```resourcepacks``` 文件夹中
-2. 启动Minecraft并加载本材质包至材质包加载列表最上层
+1. 启动Minecraft并加载本材质包至材质包加载列表最上层
 
 ```cmd
 cd %APPDATA\.minecraft\resourcepacks
@@ -52,3 +52,11 @@ git lfs clone https://github.com/Z4HD/esucraft-resourcepack.git
 （他力本愿）
 
 - 游戏内CD音效替换为各类高雅/esuMAD音乐
+
+## 参与改进
+
+欢迎各路高雅人士发PR，让本材质包成为更恶俗的 Minecraft 材质包。
+
+1. fork 本仓库
+2. 做出贡献
+3. 发 PullRequest
